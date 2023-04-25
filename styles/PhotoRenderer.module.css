@@ -1,0 +1,18 @@
+.image {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+  }
+  
+.contImg {
+    width: 100%;
+}
+
+.contImg > div {
+    position: unset !important;
+}
+
+.text {
+    color: #FFFFFF;
+}
